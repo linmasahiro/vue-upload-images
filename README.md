@@ -6,6 +6,9 @@ Seleted images transfer to Base64 and upload to server.
 
 support multiple upload.
 
+[Try Demo](https://linmasahiro.github.io/vue-upload-images/demo/)
+
+
 ## Build Setup
 
 ``` bash
